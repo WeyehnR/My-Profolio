@@ -20,7 +20,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## Live Demo
 
-Visit: [Your Hostinger URL]
+Visit: https://weyehnr.github.io/My-Profolio/
 
 ## Contact
 
