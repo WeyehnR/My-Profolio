@@ -3,6 +3,7 @@
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science graduate and Full-Stack Developer.
 
 ## Features
+
 - Responsive design
 - Interactive project showcases
 - Downloadable resume
@@ -10,6 +11,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - Mobile-friendly navigation
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript ES6+
@@ -17,9 +19,11 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - Google Fonts
 
 ## Live Demo
+
 Visit: [Your Hostinger URL]
 
 ## Contact
+
 - Email: weyehn1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/weyehnr01/
 - GitHub: https://github.com/WeyehnR
